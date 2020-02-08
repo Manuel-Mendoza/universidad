@@ -64,3 +64,27 @@ ul{
 li{
     padding: 0%;
 }
+.col-4{
+    padding-top: 15px;
+}
+/* --------------------------------------------------------------------------------------------------- */
+/* Support HTML */
+h3{
+    padding-top: 20px;
+}
+i{
+    text-decoration: underline;
+}
+.list-carreras{
+    list-style: inside;
+}
+.contenido{
+    margin-top: 30px;
+}
+
+.agro_img{
+    width: 100%;
+}
+.ing_elec{
+    margin-top: 20px;
+}
